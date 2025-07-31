@@ -8,3 +8,8 @@ xhofe/alist:latest
 bestzwei/libretv
 
 ghcr.io/senshinya/moontv
+
+
+ghcr.io/bitmagnet-io/bitmagnet
+
+postgres:16-alpine
